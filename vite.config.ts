@@ -3,5 +3,5 @@ import vue from "@vitejs/plugin-vue";
 
 export default defineConfig({
   plugins: [vue()],
-  base: "/medtech-mini-webapp/",
+  base: "/medtech-mini-webapp-organ-detection/",
 });
